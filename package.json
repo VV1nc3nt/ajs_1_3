@@ -1,0 +1,28 @@
+{
+  "name": "ajs_1_3",
+  "version": "1.0.0",
+  "description": "Task 1_3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VV1nc3nt/ajs_1_3.git"
+  },
+  "keywords": [
+    "Task"
+  ],
+  "author": "VV1nc3nt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VV1nc3nt/ajs_1_3/issues"
+  },
+  "homepage": "https://github.com/VV1nc3nt/ajs_1_3#readme",
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
